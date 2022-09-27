@@ -1,8 +1,10 @@
-# WorkInProgress
+# VoteLoiFRBot
 
-Bot des votes à l'Assemblée Nationale FR
+[Bot des votes à l'Assemblée Nationale FR](https://twitter.com/VoteLoiFRBot)
 
+*related to no official source/person/institution at all*
 
+## --- WorkInProgress ---
 
 ## Sources
 
